@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.Mivo" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#05070D</item>
+        <item name="android:statusBarColor">#05070D</item>
+    </style>
+</resources>
